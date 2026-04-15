@@ -28,11 +28,6 @@ The analysis includes:
 * Python (NumPy, Pandas, Matplotlib)
 * Jupyter Notebook
 
-## Repository Structure
-
-* `analysis.ipynb` – main analysis notebook
-* `data/` – stock price datasets
-
 ## Conclusion
 
 The results highlight the fundamental trade-off between risk and return in high-growth equities, with Nvidia offering a more favourable balance compared to Tesla and Palantir.
